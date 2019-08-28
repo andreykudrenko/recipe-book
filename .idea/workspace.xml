@@ -2,16 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="807fedf0-5b36-4f22-b606-2150458f7f64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/1-es2015.e5c9f3efacd8fbd0876b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/1-es5.8ad67e10eac1c350967d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/5-es2015.fbebaa6c9264cb3385c8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/5-es5.78cb584f24843387c0c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/6-es2015.6b3fa9844e58f45a742e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/6-es5.3ae34529d04de441c997.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/7-es2015.3f8f8b9692f3ed50c788.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/7-es5.f6533b3b9c71b6ebc4ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/glyphicons-halflings-regular.448c34a56d699c29117a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/glyphicons-halflings-regular.89889688147bd7575d63.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/glyphicons-halflings-regular.fa2772327f55d8198301.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/main-es2015.b541269b4cbf52220b35.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/main-es5.da4fbf956cd8be93de63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/polyfills-es2015.542631dca76648d5efd5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/polyfills-es5.9ab7deea91115e369dad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/runtime-es2015.364ade3bf08d0e1c43d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/runtime-es5.afaf4cac152684a1f9d5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/recipe-book/styles.98ee0ee8a13b3ecebfbe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -26,24 +42,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html">
+        <entry file="file://$PROJECT_DIR$/src/app/auth/auth.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+            <state relative-caret-position="391">
+              <caret line="51" column="111" selection-start-line="51" selection-start-column="111" selection-end-line="51" selection-end-column="111" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts">
+        <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="7" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,7 +151,6 @@
         <option value="$PROJECT_DIR$/src/app/header/header.component.html" />
         <option value="$PROJECT_DIR$/src/app/header/header.component.ts" />
         <option value="$PROJECT_DIR$/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/src/app/auth/auth.service.ts" />
         <option value="$PROJECT_DIR$/src/app/auth/auth.guard.ts" />
         <option value="$PROJECT_DIR$/src/app/shared/alert/alert.component.css" />
         <option value="$PROJECT_DIR$/src/app/shared/alert/alert.component.ts" />
@@ -147,6 +171,9 @@
         <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" />
         <option value="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" />
+        <option value="$PROJECT_DIR$/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/src/app/auth/auth.service.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.prod.ts" />
       </list>
     </option>
   </component>
@@ -159,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,10 +193,27 @@
               <item name="recipe-book" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipe-book" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="recipe-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipe-book" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipe-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipe-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="recipe-book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recipe-book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,14 +297,16 @@
       <workItem from="1565956504111" duration="1717000" />
       <workItem from="1566031521307" duration="2636000" />
       <workItem from="1566826182269" duration="4331000" />
+      <workItem from="1567011851151" duration="1255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50844000" />
+    <option name="totallyTimeSpent" value="52099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,20 +332,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe.model.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -488,16 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/auth/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/auth/auth.guard.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -640,16 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/shopping-list/shopping-list-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shopping-list/shopping-list-routing.module.ts" />
     <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -689,8 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="55" column="55" lean-forward="true" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+        <state relative-caret-position="825">
+          <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#form#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -704,6 +716,33 @@
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="51" column="111" selection-start-line="51" selection-start-column="111" selection-end-line="51" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
